@@ -2,78 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b57eafee-8a93-456b-8400-f42d85f1f0c0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Heart.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gather_keys_oauth2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Results/02-05-2019 Results.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Results/Test.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/python-fitbit" beforeDir="false" afterPath="$PROJECT_DIR$/python-fitbit" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/python-fitbit/requirements/base.txt" beforeDir="false" afterPath="$PROJECT_DIR$/python-fitbit/requirements/base.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/oauthlib-3.0.1.dist-info/INSTALLER" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/oauthlib-3.0.1.dist-info/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/oauthlib-3.0.1.dist-info/METADATA" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/oauthlib-3.0.1.dist-info/RECORD" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/oauthlib-3.0.1.dist-info/WHEEL" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/oauthlib-3.0.1.dist-info/top_level.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/oauthlib/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/oauthlib/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/oauthlib/common.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/oauthlib/common.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/oauthlib/oauth1/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/oauthlib/oauth1/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/oauthlib/oauth1/rfc5849/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/oauthlib/oauth1/rfc5849/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/oauthlib/oauth1/rfc5849/endpoints/access_token.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/oauthlib/oauth1/rfc5849/endpoints/access_token.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/oauthlib/oauth1/rfc5849/endpoints/authorization.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/oauthlib/oauth1/rfc5849/endpoints/authorization.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/oauthlib/oauth1/rfc5849/endpoints/request_token.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/oauthlib/oauth1/rfc5849/endpoints/request_token.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/oauthlib/oauth1/rfc5849/parameters.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/oauthlib/oauth1/rfc5849/parameters.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/oauthlib/oauth1/rfc5849/request_validator.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/oauthlib/oauth1/rfc5849/request_validator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/oauthlib/oauth1/rfc5849/signature.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/oauthlib/oauth1/rfc5849/signature.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/oauthlib/oauth1/rfc5849/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/oauthlib/oauth1/rfc5849/utils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/oauthlib/oauth2/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/oauthlib/oauth2/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/oauthlib/oauth2/rfc6749/clients/backend_application.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/oauthlib/oauth2/rfc6749/clients/backend_application.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/oauthlib/oauth2/rfc6749/clients/base.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/oauthlib/oauth2/rfc6749/clients/base.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/oauthlib/oauth2/rfc6749/clients/legacy_application.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/oauthlib/oauth2/rfc6749/clients/legacy_application.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/oauthlib/oauth2/rfc6749/clients/mobile_application.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/oauthlib/oauth2/rfc6749/clients/mobile_application.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/oauthlib/oauth2/rfc6749/clients/service_application.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/oauthlib/oauth2/rfc6749/clients/service_application.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/oauthlib/oauth2/rfc6749/clients/web_application.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/oauthlib/oauth2/rfc6749/clients/web_application.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/oauthlib/oauth2/rfc6749/endpoints/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/oauthlib/oauth2/rfc6749/endpoints/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/oauthlib/oauth2/rfc6749/endpoints/base.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/oauthlib/oauth2/rfc6749/endpoints/base.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/oauthlib/oauth2/rfc6749/endpoints/introspect.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/oauthlib/oauth2/rfc6749/endpoints/metadata.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/oauthlib/oauth2/rfc6749/endpoints/pre_configured.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/oauthlib/oauth2/rfc6749/endpoints/pre_configured.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/oauthlib/oauth2/rfc6749/endpoints/resource.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/oauthlib/oauth2/rfc6749/endpoints/resource.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/oauthlib/oauth2/rfc6749/endpoints/revocation.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/oauthlib/oauth2/rfc6749/endpoints/revocation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/oauthlib/oauth2/rfc6749/errors.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/oauthlib/oauth2/rfc6749/errors.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/oauthlib/oauth2/rfc6749/grant_types/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/oauthlib/oauth2/rfc6749/grant_types/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/oauthlib/oauth2/rfc6749/grant_types/authorization_code.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/oauthlib/oauth2/rfc6749/grant_types/authorization_code.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/oauthlib/oauth2/rfc6749/grant_types/base.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/oauthlib/oauth2/rfc6749/grant_types/base.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/oauthlib/oauth2/rfc6749/grant_types/client_credentials.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/oauthlib/oauth2/rfc6749/grant_types/client_credentials.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/oauthlib/oauth2/rfc6749/grant_types/implicit.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/oauthlib/oauth2/rfc6749/grant_types/implicit.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/oauthlib/oauth2/rfc6749/grant_types/refresh_token.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/oauthlib/oauth2/rfc6749/grant_types/refresh_token.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/oauthlib/oauth2/rfc6749/grant_types/resource_owner_password_credentials.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/oauthlib/oauth2/rfc6749/grant_types/resource_owner_password_credentials.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/oauthlib/oauth2/rfc6749/parameters.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/oauthlib/oauth2/rfc6749/parameters.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/oauthlib/oauth2/rfc6749/request_validator.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/oauthlib/oauth2/rfc6749/request_validator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/oauthlib/oauth2/rfc6749/tokens.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/oauthlib/oauth2/rfc6749/tokens.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/oauthlib/openid/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/oauthlib/openid/connect/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/oauthlib/openid/connect/core/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/oauthlib/openid/connect/core/endpoints/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/oauthlib/openid/connect/core/endpoints/pre_configured.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/oauthlib/openid/connect/core/exceptions.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/oauthlib/openid/connect/core/grant_types/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/oauthlib/openid/connect/core/grant_types/authorization_code.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/oauthlib/openid/connect/core/grant_types/base.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/oauthlib/openid/connect/core/grant_types/dispatchers.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/oauthlib/openid/connect/core/grant_types/exceptions.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/oauthlib/openid/connect/core/grant_types/hybrid.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/oauthlib/openid/connect/core/grant_types/implicit.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/oauthlib/openid/connect/core/request_validator.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/oauthlib/openid/connect/core/tokens.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/oauthlib/signals.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/oauthlib/signals.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/requests_oauthlib-1.2.0.dist-info/INSTALLER" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/requests_oauthlib-1.2.0.dist-info/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/requests_oauthlib-1.2.0.dist-info/METADATA" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/requests_oauthlib-1.2.0.dist-info/RECORD" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/requests_oauthlib-1.2.0.dist-info/WHEEL" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/requests_oauthlib-1.2.0.dist-info/top_level.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/requests_oauthlib/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/requests_oauthlib/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/requests_oauthlib/oauth2_session.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/requests_oauthlib/oauth2_session.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -122,8 +54,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/python-fitbit/Heart.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="30" column="33" lean-forward="true" selection-start-line="30" selection-start-column="33" selection-end-line="30" selection-end-column="33" />
+            <state relative-caret-position="352">
+              <caret line="53" column="58" lean-forward="true" selection-start-line="53" selection-start-column="58" selection-end-line="53" selection-end-column="58" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -134,8 +66,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/python-fitbit/fitbit/api.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="9401">
-              <caret line="555" column="58" selection-start-line="555" selection-start-column="58" selection-end-line="555" selection-end-column="58" />
+            <state relative-caret-position="243">
+              <caret line="557" lean-forward="true" selection-start-line="557" selection-end-line="557" />
             </state>
           </provider>
         </entry>
@@ -186,6 +118,7 @@
       <find>uri</find>
       <find>127.</find>
       <find>intraday</find>
+      <find>intrad</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -212,7 +145,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -241,6 +173,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -330,9 +263,9 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Heart (1)" />
-      <item itemvalue="Python.Heart" />
       <item itemvalue="Python.gather_keys_oauth2" />
+      <item itemvalue="Python.Heart" />
+      <item itemvalue="Python.Heart (1)" />
     </list>
     <recent_temporary>
       <list>
@@ -372,7 +305,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32969698" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32969698" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -490,13 +423,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python-fitbit/fitbit/api.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9401">
-          <caret line="555" column="58" selection-start-line="555" selection-start-column="58" selection-end-line="555" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/pandas/core/generic.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="50490">
@@ -521,10 +447,17 @@
     <entry file="file://$PROJECT_DIR$/python-fitbit/fitbit/exceptions.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/python-fitbit/fitbit/api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="557" lean-forward="true" selection-start-line="557" selection-end-line="557" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/python-fitbit/Heart.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" column="33" lean-forward="true" selection-start-line="30" selection-start-column="33" selection-end-line="30" selection-end-column="33" />
+        <state relative-caret-position="352">
+          <caret line="53" column="58" lean-forward="true" selection-start-line="53" selection-start-column="58" selection-end-line="53" selection-end-column="58" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>

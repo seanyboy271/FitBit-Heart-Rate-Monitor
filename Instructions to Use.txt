@@ -1,0 +1,23 @@
+Warnings: 
+	IF THE GIVEN FILE NAME ALREADY EXISTS WITHIN THE RESULTS FOLDER, IT WILL BE OVERWRITTEN BY THE NEW FILE
+
+How to Use:
+1. Double click on the "Heart Rate Data Launcher" file
+2. Input the date for which you would like to extract data. If you want the data for the current date, type 'today'
+3. Input the starting time that you would like to extract data from, If you would like all of the data for the selected day, type 'all'
+4. If you input a start time, input the ending time of the data you would like to collect (Note: You must input all times in 24 hour format. For example, 2:00pm = 14:00)
+5. Enter a name for the output file. If you would like to use the dafault name (MM-dd-YY Results.csv), then push enter
+5. A browser window will open. If this is your first time using this script, input your login credentials for your fitbit account
+6. Once authenticated, the browser should come up with a message letting you know that you have gained access to the api.
+7. A file containing the data will be created and stored in the 'Results' folder
+
+Common Issues:
+1. If the file has not been created after the program has terminated, try the following
+	- Make sure that you do not have a file open that has the same name as the file name you just entered
+	- Make sure you are connected to the internet
+	- Make sure that the file name you entered does not contain any illegal characters (<, >, :, ", /, \, |, ?, *)
+	- Make sure that the date and times entered are in the correct format (Date must be YYYY-MM-DD, and time must be HH:mm)
+2. If the file has been created, but there is no data/incorrect data within it, try the following
+	- Make sure that you have synced the FitBit before using the program
+	- Make sure that you are inputting the correct time (All times must be in 24 hour format)
+	- Make sure that you have input the correct date

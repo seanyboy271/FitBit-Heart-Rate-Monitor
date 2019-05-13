@@ -7,8 +7,14 @@ CLIENT_ID = '22DHWL'
 CLIENT_SECRET = "643bca83d2b5bc091bac689297b5f3af"
 
 #Gathering base_date, start time, end time, and fileName from user input
-print("Input the date that you would like to collect data from (yyyy-MM-dd or 'today'): ")
+print("Input the date that you would like to collect data from (MM-dd-YYYY or 'today'): ")
 date = input()
+if not date=="today":
+    dateList = date.split("-")
+    month = dateList[0]
+    day = dateList[1]
+    year = dateList[2]
+    date = year + "-" + month + "-" + day
 print("Input the start time for the data you would like to collect (HH:mm) or 'All' for all of the selected date's data:")
 start_time = input()
 if not start_time.lower() == 'all':
@@ -46,6 +52,9 @@ for i in fit_statsHR['activities-heart-intraday']['dataset']:
     val_list.append(i['value'])
     time_list.append(i['time'])
 
+if not val_list or not time_list:
+    print("No data was found. Please try again with a different date/time combination")
+    exit(1)
 #Determining the Max Heart rate, Time of Max Heart rate, Min Heart Rate, Time of Min Heart Rate, and Average heart rate
 maxHeartRate = max(val_list)
 timeIndex = val_list.index(maxHeartRate)

@@ -9,7 +9,7 @@ CLIENT_SECRET = "643bca83d2b5bc091bac689297b5f3af"
 #Gathering base_date, start time, end time, and fileName from user input
 print("Input the date that you would like to collect data from (MM-dd-YYYY or 'today'): ")
 date = input()
-if not date=="today":
+if not date == "today":
     dateList = date.split("-")
     month = dateList[0]
     day = dateList[1]
@@ -75,8 +75,8 @@ heartdf.loc[0, 'Time of Minimum'] = timeOfMin
 heartdf.loc[0, 'Average Heart Rate'] = average
 
 #Establising default file name
-today = str(datetime.datetime.now().strftime("%Y-%m-%d"))
 if date.lower() == "today":
+    today = str(datetime.datetime.now().strftime("%Y-%m-%d"))
     date = today
 dateList = date.split('-')
 year = dateList[0]

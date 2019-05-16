@@ -82,10 +82,12 @@ dateList = date.split('-')
 year = dateList[0]
 month = dateList[1]
 day = dateList[2]
+fileNameDate = month + "-" + day + "-" + year
+heartdf.loc[0, 'Data is from'] = fileNameDate
 if not fileName:
     fileName = month + "-" + day + "-" + year + " Results.csv"
 
 #Converting dataframe to a CSV and storing it into Results folder
 heartdf.to_csv('C:/Users/BeepBoop/Desktop/FitBit Data Extraction/Results/' + fileName,
-               columns=['Time','Heart Rate', 'Max Heart Rate', 'Time of Max', 'Minimum Heart Rate', 'Time of Minimum', 'Average Heart Rate'], header=True,
+               columns=['Time','Heart Rate', 'Max Heart Rate', 'Time of Max', 'Minimum Heart Rate', 'Time of Minimum', 'Average Heart Rate', 'Data is from'], header=True,
                index = False)
